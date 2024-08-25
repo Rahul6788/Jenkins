@@ -1,3 +1,10 @@
-echo"I am Rahul"
-echo"I love jenkins"
-cat /var/lib/jenkins/secrets/initialAdminPassword
+free -h
+uname -a
+hostnamectl
+lscpu
+lsblk
+sudo lshw
+df -h
+ip a
+
+
